@@ -8,9 +8,9 @@ metadata:
 spec:
   containers:
   - name: gettsdata
-    image: BrianAzureRegistry.azurecr.io/timeseries
+    image: brianazureregistry.azurecr.io/timeseries
     tty: true
 
   - name: pushtsdata
-    image: BrianAzureRegistry.azurecr.io/timeseries
+    image: brianazureregistry.azurecr.io/timeseries
     tty: true
